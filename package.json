@@ -1,0 +1,19 @@
+{
+  "name": "k6-tests",
+  "version": "1.0.0",
+  "description": "this is k6 script examples",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Manank7/K6-Tests.git"
+  },
+  "author": "Manan Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Manank7/K6-Tests/issues"
+  },
+  "homepage": "https://github.com/Manank7/K6-Tests#readme"
+}
